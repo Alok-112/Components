@@ -1,1 +1,0 @@
-This is basically a scrollable tab functionality using HTML CSS JS 

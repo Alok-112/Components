@@ -1,0 +1,1 @@
+This is basically a scrollable bar made using html css and js.
